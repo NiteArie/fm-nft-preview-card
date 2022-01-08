@@ -2,7 +2,7 @@
 
 ## Live View:
 
-URL: ![https://nitearie.github.io/fm-nft-preview-card/](https://nitearie.github.io/fm-nft-preview-card/)
+URL: [https://nitearie.github.io/fm-nft-preview-card/](https://nitearie.github.io/fm-nft-preview-card/)
 
 ## Design
 
